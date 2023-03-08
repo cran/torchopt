@@ -1,13 +1,12 @@
 Type: Package
 Package: torchopt
 Title: Advanced Optimizers for Torch
-Version: 0.1.2
+Version: 0.1.3
 Authors@R: c(
     person("Gilberto", "Camara", , "gilberto.camara.inpe@gmail.com", role = c("aut", "cre")),
     person("Rolf", "Simoes", , "rolf.simoes@inpe.br", role = "aut"),
     person("Daniel", "Falbel", , "daniel.falbel@gmail.com", role = "aut"),
-    person("Felipe", "Souza", , "felipe.carvalho@inpe.br", role = "aut"),
-    person("Alber", "Sanchez", , "alber.ipia@inpe.br", role = "aut")
+    person("Felipe", "Souza", , "felipe.carvalho@inpe.br", role = "aut")
   )
 Maintainer: Gilberto Camara <gilberto.camara.inpe@gmail.com>
 Description: Optimizers for 'torch' deep learning library. These
@@ -36,11 +35,10 @@ Encoding: UTF-8
 Language: en-US
 RoxygenNote: 7.2.0
 NeedsCompilation: no
-Packaged: 2022-06-29 16:25:21 UTC; gilbertocamara
+Packaged: 2023-03-08 13:01:30 UTC; gilbertocamara
 Author: Gilberto Camara [aut, cre],
   Rolf Simoes [aut],
   Daniel Falbel [aut],
-  Felipe Souza [aut],
-  Alber Sanchez [aut]
+  Felipe Souza [aut]
 Repository: CRAN
-Date/Publication: 2022-06-30 13:50:02 UTC
+Date/Publication: 2023-03-08 13:20:02 UTC
